@@ -1,0 +1,23 @@
+.hero__wrap{
+    display: flex;
+    padding:0  400px;
+    gap: 40px;
+}
+.first{
+
+    img{
+        border-radius: 20px;
+        width: 200px;
+    }
+}
+.sceond{
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    
+    button{
+        max-width: 100px;
+        padding:10px 30px;
+        border-radius: 10px;
+    }
+}
